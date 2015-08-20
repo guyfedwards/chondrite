@@ -1,6 +1,6 @@
 # Chondrite
 
-Sugar free slim fat diet zero boilerplate for Meteor applications. Simple folder structure and essential packages.
+Sugar free slim fat diet zero boilerplate for Meteor applications. Simple folder structure, css utilities and essential packages.
 
 This was created for creating small low level prototypes so is not secure, or feature rich, just a time saver.
 
